@@ -1,6 +1,6 @@
 # ELORA | Fashion Inspiration
 
-ELORA is a fashion inspiration website featuring outfit ideas for different styles and occasions.
+ELORA is a College fashion inspiration website featuring outfit ideas for different styles and occasions.
 
 ## Features
 - Women's outfit inspiration
